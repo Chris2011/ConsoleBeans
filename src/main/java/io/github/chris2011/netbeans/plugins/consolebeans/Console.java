@@ -70,6 +70,22 @@ public class Console implements CommandProcessor {
         view = new ConsoleDisplay(this, display);
         shell = new CmdLineProcessor(this);
         history = new CommandHistory(MAX);
+        
+        if(true) {
+            
+        } else {
+            
+        }
+        
+        switch("test") {
+            case "test":
+                
+            break;
+        }
+        
+        do {
+            
+        } while(true);
     }
 
     @Override
